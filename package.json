@@ -1,0 +1,25 @@
+{
+  "name": "nftexchange",
+  "version": "1.0.0",
+  "description": "This is a marketplace exchange",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranaychawhan2015/NEFTExchange.git"
+  },
+  "author": "Pranay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranaychawhan2015/NEFTExchange/issues"
+  },
+  "homepage": "https://github.com/pranaychawhan2015/NEFTExchange#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
